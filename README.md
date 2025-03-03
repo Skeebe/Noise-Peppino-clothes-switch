@@ -14,7 +14,7 @@ Use "export.bat" file to backup the modded file to this folder and imports the u
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# -=-=-=-=-=-=-=-=-=-=-=-=CREDITS-=-=-=-=-=-=-=-=-=-=-=-=-=
+# -=-=-=-=-=-=-=-=-=-CREDITS-=-=-=-=-=-=-=-=-=-=
 
 Skeebe - All texture rendering and replacing
 
